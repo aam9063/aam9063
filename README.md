@@ -42,10 +42,13 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![](https://forthebadge.com/images/badges/uses-brains.svg)
----
+
+<p>
+   <h3> 🤝🏻 Connect with me </h3>
+  <a href="mailto:hi@ferdiozer.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/ferdi.ozer"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ferdiozer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
@@ -55,6 +58,12 @@
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
  <br><br>
 </p>
+---
+![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+![](https://forthebadge.com/images/badges/uses-brains.svg)
+---
+
+
 
 ![](https://komarev.com/ghpvc/?username=aam9063&label=Visitors+Count&color=brightgreen)
 </div>
