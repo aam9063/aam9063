@@ -14,7 +14,7 @@
   
 🌱 I’m currently learning : Microservices with Spring and others technologies
 
-  👯 I’m looking to collaborate with other people and improve my skilss
+  👯 I’m looking to collaborate with other people and improve my skills
 
   💬 Ask me about for any collab
 
