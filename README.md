@@ -10,7 +10,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page : https://codewithalbert.netlify.app/
+🔭 I’m currently working on my portfolio web page : https://codewithalbert.netlify.app/
   
 🌱 I’m currently learning : Microservices with Spring and others technologies
 
