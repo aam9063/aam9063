@@ -12,7 +12,7 @@
 # 💫About Me :
 🔭 I’m currently working on my portfolio web page : https://codewithalbert.netlify.app/
   
-🌱 I’m currently learning : Angular 19 and others technologies
+🌱 I’m currently learning : Angular 20 and others technologies like .NET 9
 
   👯 I’m looking to collaborate with other people and improve my skills
 
