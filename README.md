@@ -11,6 +11,8 @@
   
 # 💫About Me :
 🔭 I’m currently working on my portfolio web page : https://codewithalbert.netlify.app/
+
+🌱 I'm currently working at Softtek like a Software Engineer
   
 🌱 I’m currently learning : Angular 20 and others technologies like .NET 9
 
