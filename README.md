@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://x.com/albertalarcon10"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.linkedin.com/in/albert-alarc%C3%B3n-mart%C3%ADnez-04044a51/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/albertalarcon-software-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:albert9063@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://codewithalbert.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"></a>
 </p>
@@ -74,7 +74,7 @@ spec  →  tasks  →  isolated agents  →  review gate  →  reviewable commit
 ## 🔗 Connect
 
 - **X** — [@albertalarcon10](https://x.com/albertalarcon10)
-- **LinkedIn** — [Albert Alarcón Martínez](https://www.linkedin.com/in/albert-alarc%C3%B3n-mart%C3%ADnez-04044a51/)
+- **LinkedIn** — [Albert Alarcón Martínez](https://www.linkedin.com/in/albertalarcon-software-developer/)
 - **Email** — [albert9063@gmail.com](mailto:albert9063@gmail.com)
 - **Instagram** — [@albertalarcon](https://instagram.com/albertalarcon)
 - **Portfolio** — [codewithalbert.netlify.app](https://codewithalbert.netlify.app/)
